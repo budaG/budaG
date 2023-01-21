@@ -1,5 +1,7 @@
 ![8223](https://user-images.githubusercontent.com/26555944/152850887-a7cc4a94-13bc-4fea-a220-3872d204a2ff.gif)
 
+[Link Personal Portfolio](https://ganeshbudhathoki.github.io/)
+
 <!--
 **budaG/budaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
